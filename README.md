@@ -10,7 +10,7 @@ To execute this project, it is necessary to have the node package.
 
 This command responsible to create a server in port 3333.
 
-## Star fronend application
+## Star frontend application
 
 - `npm start`
 
