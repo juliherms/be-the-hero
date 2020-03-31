@@ -1,4 +1,4 @@
-# Be To Hero
+# Be The Hero
 
 Application created in the rocketseat omnistack week
 
